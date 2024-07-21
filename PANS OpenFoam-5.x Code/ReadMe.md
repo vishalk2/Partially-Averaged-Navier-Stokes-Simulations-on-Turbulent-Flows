@@ -1,6 +1,6 @@
 ### Partially Averaged Navier Stokes Simulation Code for OpenFOAM-5.x
 
-#### Code to be Implemented:
+#### Simulation Code:
 - kEpsilonPANS.C
 - kEpsilonPANS.H
 
