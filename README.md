@@ -30,7 +30,7 @@
 <hr>
 <br>
 
-### Code
+### CODE
 
 <br>
 <hr>
