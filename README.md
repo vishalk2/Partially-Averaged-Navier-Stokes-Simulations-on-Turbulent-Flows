@@ -44,7 +44,7 @@ PANS Simulation against the LES Simulation for the "PitzDaily" case in OpenFOAM-
 
 <br>
 
-PANS Simulation
+#### PANS Simulation
 <br>
 
 ![PANS Simulation](https://github.com/user-attachments/assets/c17eeaf4-65ae-4dc1-945b-8019f4d270ac)
@@ -52,7 +52,7 @@ PANS Simulation
 <br>
 <br>
 
-LES Simulation
+#### LES Simulation
 <br>
 
 ![LES Simulation](https://github.com/user-attachments/assets/04102345-121e-4395-8798-a27e47b5a49a)
