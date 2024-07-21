@@ -49,6 +49,10 @@ Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turb
 
 ### CODE
 
+Simulation Codes: kEpsilonPANS.H and kEpsilonPANS.C, where
+
+<br>
+
 kEpsilonPANS.C = kEpsilon.C + PANS.C:
 - kEpsilon.C (Standard OpenFOAM Code for kEpsilon Turbulence Model)
 - PANS.C (PANS Layer of Code for the Turbulence Model)
