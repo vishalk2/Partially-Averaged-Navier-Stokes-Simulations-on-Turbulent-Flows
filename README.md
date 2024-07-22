@@ -15,7 +15,8 @@
 ### ABOUT
 
 This Research Work constitutes:
-- Partially Averaged Navier Stokes (PANS) Model Simulations for turbulent flows.
+- Partially Averaged Navier Stokes (PANS) Model Implementation for turbulent flows.
+- PANS Simulation on the "PitzDaily" case on OpenFOAM-5.x (pimpleFoam).
 - Effective comparison between PANS Simulations and Large Eddy Simulations (LES).
 
 <br>
