@@ -85,8 +85,6 @@ where,
 
 ### SIMULATIONS
 
-<br>
-
 #### PANS Simulation against the LES Simulation for the "PitzDaily" case in OpenFOAM-5.x (pimpleFoam).
 
 <br>
