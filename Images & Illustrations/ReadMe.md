@@ -2,7 +2,7 @@
 
 <br>
 
-#### Comparison of Partially Averaged Navier Stokes (PANS) Simulation against Large Eddy Simulation (LES) at 3 different Time Steps.
+#### Comparison of Partially Averaged Navier Stokes (PANS) Simulation against Large Eddy Simulation (LES) on the "PitzDaily" case at 3 different Time Steps on OpenFOAM-5.x (pimpleFoam).
 
 #### - PANS Simulation : Time Step - 1
 
