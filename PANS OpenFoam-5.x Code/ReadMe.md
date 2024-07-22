@@ -17,10 +17,10 @@ where,
 
 <br>
 
-#### kEpsilon.H:
+#### kEpsilon.H & kEpsilon.C:
 - Standard OpenFOAM kEpsilon Files for Turbulence Model.
-- Documentation: https://www.openfoam.com/documentation/guides/latest/api/TurbulenceModels_2turbulenceModels_2RAS_2kEpsilon_2kEpsilon_8H.html
+- Documentation:
+   1. https://www.openfoam.com/documentation/guides/latest/api/TurbulenceModels_2turbulenceModels_2RAS_2kEpsilon_2kEpsilon_8H.html
+   2. https://www.openfoam.com/documentation/guides/latest/api/TurbulenceModels_2turbulenceModels_2RAS_2kEpsilon_2kEpsilon_8C.html
 
-#### kEpsilon.C
-- Standard OpenFOAM kEpsilon Files for Turbulence Model.
-- Documentation: https://www.openfoam.com/documentation/guides/latest/api/TurbulenceModels_2turbulenceModels_2RAS_2kEpsilon_2kEpsilon_8C.html
+<br>
