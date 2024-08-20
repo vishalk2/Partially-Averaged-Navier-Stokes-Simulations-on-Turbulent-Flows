@@ -42,7 +42,6 @@ Partially Averaged navier Stokes (PANS) vs Large Eddy Simulations (LES) for Turb
 - Researched the Partially Averaged Navier Stokes (PANS) model on Turbulent Flows.
 - Implemented the PANS model using OpenFOAM-5.x (pimpleFoam) for the "PitzDaily" case.
 - Implementation of PANS involved developing and validating numerical algorithms to simulate turbulent flows with improved accuracy and computational efficiency.
-- Applied numerical techniques to study and accurately capture the movements and interactions of the granular particles.
 - Effectively compared the results of PANS simulations against Large Eddy Simulations (LES) based on the velocities of the flows.
 - This comparative analysis provided valuable insights into the capabilities and limitations of PANS turbulence modelling approach in predicting flow behaviour.
 
